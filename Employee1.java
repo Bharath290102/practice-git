@@ -24,6 +24,8 @@ public static void main(String[] args) {
 	
 	ArrayList al=new ArrayList();
 	al.add(e1);  al.add(e2); al.add(e3);
+         al.add(e5);
+          al.add(e4);
 	Collections.sort();
 }
 
